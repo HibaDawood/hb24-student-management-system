@@ -1,4 +1,5 @@
 # 🏫 CLI Student Management System
+[![npm version](https://img.shields.io/npm/v/hb24-student-management-system.svg?style=flat-square)](https://www.npmjs.com/package/hb24-student-management-system)
 
 A robust, console-based Student Management System built with TypeScript and Node.js. The application utilizes core Object-Oriented Programming (OOP) principles to manage student enrollments, fee structures, and academic statuses in real-time.
 
@@ -22,13 +23,9 @@ A robust, console-based Student Management System built with TypeScript and Node
 
 ---
 
-## 🚀 How to Run & Use
+### 🚀 How to Run & Use
 
-1. Clone or download this repository locally.
-2. Open your terminal in the project folder and install the required packages:
-   ```bash
-   npm install
-3. Run the application using the following command:
+Run this application directly in your terminal using `npx` (No installation required):
 
 ```bash
-npx tsc && node index.js
+npx hb24-student-management-system
